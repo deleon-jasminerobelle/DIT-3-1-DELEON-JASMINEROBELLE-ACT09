@@ -91,11 +91,7 @@ The app uses the following Firebase services:
 
 ---
 
-## 🧑‍🎓 Author
-
-**Student Name:** *Your Name Here*
-**Course:** Mobile Development
-**Lab Title:** Firebase-Based Chat Application
+ Firebase-Based Chat Application
 
 ---
 
